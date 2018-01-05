@@ -31,9 +31,9 @@ public void testMin(){
 
     @Test
     public void testSomeMethod(){
-        Assert.assertEquals(MathUtil.min(30,20),20);
+        Assert.assertEquals(MathUtil.someMethod(30,20),20);
 
 //        补全测试
-        Assert.assertEquals(MathUtil.min(1,30),1);
+        Assert.assertEquals(MathUtil.someMethod(1,30),1);
     }
 }
