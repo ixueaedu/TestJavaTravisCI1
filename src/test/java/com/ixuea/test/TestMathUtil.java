@@ -28,4 +28,12 @@ public void testMin(){
 //        补全测试
     Assert.assertEquals(MathUtil.min(1,30),1);
 }
+
+    @Test
+    public void testSomeMethod(){
+        Assert.assertEquals(MathUtil.min(30,20),20);
+
+//        补全测试
+        Assert.assertEquals(MathUtil.min(1,30),1);
+    }
 }
