@@ -27,6 +27,7 @@ public class MathUtil {
     }
 
     public static int someMethod(int a, int b) {
+
         int x=0;
         int y=x+10;
         int z=20+y;
